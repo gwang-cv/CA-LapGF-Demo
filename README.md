@@ -1,14 +1,13 @@
- =======================================================================
+
  
-  Context-Aware Gaussian Fields for Non-rigid Point Set Registration (CA-LapGF) Demo 
+  ## Context-Aware Gaussian Fields for Non-rigid Point Set Registration (CA-LapGF) Demo 
+
  
- =======================================================================
+ Author:      Gang Wang
  
- `Author:      Gang Wang`
+ Date:         06/16/2016
  
- `Date:         06/16/2016`
- 
- `Email:    gwang.cv@gmail.com`
+ Email:    gwang.cv@gmail.com
 
 ----
 
@@ -16,7 +15,7 @@ MATLAB 2015 x64
   	
  ----
  
-###MATLAB Demo GUI:
+### MATLAB Demo GUI:
  
 ![image](https://raw.githubusercontent.com/gwang-cv/CA-LapGF-Demo/master/GUI.PNG)
 
