@@ -1,6 +1,6 @@
 
  
-  ## Context-Aware Gaussian Fields for Non-rigid Point Set Registration (CA-LapGF) Demo 
+  ## Context-Aware Gaussian Fields for Non-rigid Point Set Registration 
 
  
  Author:      Gang Wang
@@ -8,6 +8,10 @@
  Date:         06/16/2016
  
  Email:    gwang.cv@gmail.com
+ 
+ For more information, please refer to: 
+ 
+Gang Wang, Zhicheng Wang, Yufei Chen, Qiangqiang Zhou, Weidong Zhao, **Context-Aware Gaussian Fields for Non-rigid Point Set Registration**, IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2016), June 27-30, Las Vegas, Nevada, USA.
 
 ----
 
